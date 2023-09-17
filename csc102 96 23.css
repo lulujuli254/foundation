@@ -1,0 +1,39 @@
+h1{
+    color: rgb(36, 42, 42);
+    text-align: left;
+    
+}
+nav
+{
+    background-color: grey;
+    display: grid;
+}
+body{
+    background-color: rgb(141, 141, 60);
+    background-image: linear-gradient(rgb(238, 0, 255),yellow);
+    background-repeat: -moz-linear-gradient(blue,orange (255, 218, 192));
+    
+}
+
+.buttonLN{
+    text-align: left;
+    background-color: rgb(30, 0, 255);
+    border-color: royalblue(6,12,144);
+    width: 90px;
+    height: 140px;
+    border-radius: 20px;
+    border-style:dashed;
+    cursor: crosshair;
+    float: left;
+    padding: 5px;
+    line-height: 30px;
+}
+
+.b
+footer{
+    text-align: center;
+    margin-right: 200px;
+    background-color: rgb(37, 45, 37);
+
+    
+}
